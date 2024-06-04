@@ -1,4 +1,0 @@
-
-
-    window.silex = window.silex || {}
-    window.silex.data = {"site":{"width":1034.1840209960938},"pages":[{"id":"page-home","displayName":"Home","link":{"linkType":"LinkTypePage","href":"#!page-home"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-inscri-es","displayName":"Inscrições","link":{"linkType":"LinkTypePage","href":"#!page-inscri-es"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-programa","displayName":"Programa","link":{"linkType":"LinkTypePage","href":"#!page-programa"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-linhas-de-pesquisa","displayName":"Linhas de pesquisa","link":{"linkType":"LinkTypePage","href":"#!page-linhas-de-pesquisa"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
